@@ -1,4 +1,4 @@
-👋 Hi there! I'm Akash
+# 👋 Hi there! I'm Akash
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer with a keen interest in DevOps and cloud computing. Here's a bit more about me:
 
